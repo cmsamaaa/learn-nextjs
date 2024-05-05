@@ -1,5 +1,5 @@
 import performanceImg from '/public/img/performance.jpg';
-import Hero from '@/components/hero';
+import Hero from '@/components/1/hero';
 
 export default function PerformancePage() {
   return (

@@ -1,5 +1,5 @@
 import reliabilityImg from '/public/img/reliability.jpg';
-import Hero from '@/components/hero';
+import Hero from '@/components/1/hero';
 
 export default function ReliabilityPage() {
   return (
