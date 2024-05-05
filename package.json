@@ -13,7 +13,7 @@
   },
   "lint-staged": {
     "*.{ts,tsx,js,jsx}": "next lint --fix",
-    "*.{css,scss,md}": "npx prettier --write"
+    "*.{ts,tsx,js,jsx,css,scss,md}": "npx prettier --write"
   },
   "dependencies": {
     "@prisma/client": "^5.13.0",
